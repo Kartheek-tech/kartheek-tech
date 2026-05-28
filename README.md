@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I'm Kartheek 👋  <br>I build Python projects that solve real-world problems — from data analysis to automation.  <br>Currently focused on becoming job-ready through consistent project building and hands-on learning.
+Hi, I’m Kartheek 👋
+Aspiring Data Analyst focused on turning raw data into meaningful insights using Python, SQL, Excel, and visualization tools.
+Currently building real-world projects in data analysis, dashboards, and automation to become industry-ready through hands-on learning and problem-solving.
 
 
 # 💻 Tech Stack:
